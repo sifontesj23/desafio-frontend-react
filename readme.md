@@ -5,7 +5,7 @@ Este projeto consiste em criar uma aplicação com ReactJS, o objetivo é compon
 
 ## Layout
 
-O design completo do projeto está disponível no segui [Figma](https://www.figma.com/design/UD1u5UxZQrc1jFSSUOK1n9/desafio-progressivo?node-id=0-1&t=WChvmNQQOVDsWHSc-1) Figma, que pode ser encontrado no repositório.
+O design completo do projeto está disponível no seguinte [Figma](https://www.figma.com/design/UD1u5UxZQrc1jFSSUOK1n9/desafio-progressivo?node-id=0-1&t=WChvmNQQOVDsWHSc-1), que pode ser encontrado no repositório.
 
 ## Instruções para Entrega
 
